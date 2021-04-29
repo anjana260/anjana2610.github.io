@@ -1,0 +1,5 @@
+skills:
+   1.html and css skills
+   2.analystical skills
+   3.responsive design skills
+   4.search engine optimization
